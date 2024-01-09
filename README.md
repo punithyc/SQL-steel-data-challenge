@@ -5,7 +5,7 @@
 ## Intoduction
 
 The steel data challange contains 5 Tables as Customers, Orders, baskets, products & Country table to solved this case study as a Customer Insights analyst for The General Store.<br>
-As a Customer Insights Analyst for 'The General Store' We have to analyze the following data to find out crucial information about the customers & provide to marketing team .
+As a Customer Insights Analyst for 'The General Store' i have to analyze the following data to find out crucial information about the customers & provide to marketing team .
 
 * *__customers__*
 * *__country__*
@@ -101,7 +101,7 @@ group by p.category
 ## Conclusion
 The analysis of Steel data challange through SQL has provided valuable insights into various aspects of the business. By querying the database, I've been able to uncover crucial information regarding sales trends, customer preferences, popular items.
 
-__*for more information__* : [Steel data challange](https://www.steeldata.org.uk/sql3.html)
+*__for more information__* : [Steel data challange](https://www.steeldata.org.uk/sql3.html)
 
 ## For any Queries/Doubts
 [website](https://bio.link/punithyc)
